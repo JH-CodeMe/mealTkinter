@@ -2,7 +2,7 @@ import tkinter as tk # tkinter 라이브러리를 추가하고 tk로 대체
 import requests
 from xml.etree import ElementTree as ET
 
-API_KEY = "73977e5306894980844a1b64e662b879"
+API_KEY = "API_KEY"
 
 window = tk.Tk() # 창 생성
 window.title("급식알리미") # 창의 이름을 급식알리미로 설정
